@@ -1,0 +1,14 @@
+user:
+user:cste13@gmail.com
+pass:cste13
+user:cste14@gmail.com
+pass:cste14
+user:cste15@gmail.com
+pass:cste15
+user:cste12@gmail.com
+pass:cste12
+localhost/online_notice_board/
+localhost/online_notice_board/admin/
+admin:
+user:admin@gmail.com
+pass:admin
